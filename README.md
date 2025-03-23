@@ -1,6 +1,7 @@
 # 3-23WEEK7
 
-## 、、、 c++
+## 
+``` cpp
 
 #include <iostream>
 
@@ -61,6 +62,6 @@ int main() {
 
 }
 
-、、、
+```
 
 ## video
